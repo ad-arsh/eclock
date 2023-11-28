@@ -18,13 +18,13 @@ const ftr = `
         <div class="contact">
             <div class="title">Contact Us:</div>
 
-            <p><span>Address:</span> Khasra Number 545/2 Part, Village Jaroda Saragaon Road, Raipur (C.G.)</p>
+            <p><span>Address:</span> Details to added...</p>
 
             <p><span>Phone:</span> +91 9285040001 9285240001</p>
 
-            <p><span>Email:</span> info@rigga.in</p>
+            <p><span>Email:</span> Details to added...</p>
 
-            <p><span>Email:</span> Support@rigga.in</p>
+            <p><span>Email:</span> Details to added....in</p>
         </div>
 `;
 
