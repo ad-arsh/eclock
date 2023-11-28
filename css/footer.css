@@ -1,0 +1,47 @@
+/* footer starts here  */
+
+footer {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 50px;
+}
+
+footer .about {
+    width: 40%;
+    max-width: 400px;
+    font-weight: 100;
+}
+
+footer .about p {
+    font-weight: 500;
+    margin-bottom: 15px;
+}
+
+footer .socials {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+}
+
+footer .socials a {
+    color: red;
+}
+
+footer .contact {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-family: raleway;
+}
+
+footer .contact .title {
+    font-family: poppins;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+footer .contact p span {
+    font-weight: 600;
+}
