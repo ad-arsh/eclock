@@ -19,7 +19,7 @@ const nav = `<nav>
         <hr class="activeLine">
     </li>
     <li>
-        <a href="about.html">
+        <a href="pages/about.html">
             <ion-icon name="help-circle-outline"></ion-icon>About Us
         </a>
         <hr class="activeLine">
