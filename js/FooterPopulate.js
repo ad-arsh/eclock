@@ -24,7 +24,7 @@ const ftr = `
 
             <p><span>Email:</span> Details to added...</p>
 
-            <p><span>Email:</span> Details to added....in</p>
+            <p><span>Email:</span> Details to added....</p>
         </div>
 `;
 
