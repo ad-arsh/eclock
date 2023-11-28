@@ -7,7 +7,7 @@ const nav = `<nav>
 <ul class="links">
 
     <li>
-        <a href="#">
+        <a href="/">
             <ion-icon name="planet-outline"></ion-icon>Home
         </a>
         <hr class="activeLine">
@@ -19,7 +19,7 @@ const nav = `<nav>
         <hr class="activeLine">
     </li>
     <li>
-        <a href="#">
+        <a href="about.html">
             <ion-icon name="help-circle-outline"></ion-icon>About Us
         </a>
         <hr class="activeLine">
