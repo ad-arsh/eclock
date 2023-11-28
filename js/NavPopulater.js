@@ -7,7 +7,7 @@ const nav = `<nav>
 <ul class="links">
 
     <li>
-        <a href="/">
+        <a href="/eclock">
             <ion-icon name="planet-outline"></ion-icon>Home
         </a>
         <hr class="activeLine">
