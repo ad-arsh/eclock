@@ -19,7 +19,7 @@ const nav = `<nav>
         <hr class="activeLine">
     </li>
     <li>
-        <a href="pages/about.html">
+        <a href="https://ad-arsh.github.io/eclock/pages/about.html">
             <ion-icon name="help-circle-outline"></ion-icon>About Us
         </a>
         <hr class="activeLine">
